@@ -1,6 +1,6 @@
-# This is an H1 Header
+ # This is an H1 Header
 
-### This is an H3 header...
+### This is Yaktocat!
 
-
+![image of yaktocat](https://octodex.github.com/images/yaktocat.png)
 
